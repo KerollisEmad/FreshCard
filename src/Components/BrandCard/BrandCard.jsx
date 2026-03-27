@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import useBrands from "../../../hooks/usebrands";
+import useBrands from "../../../hooks/useBrands";
 
 export default function BrandCard() {
   const { isLoading, brands, isError, error } = useBrands({ limit: "40" });
