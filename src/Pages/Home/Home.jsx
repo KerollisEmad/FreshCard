@@ -3,7 +3,7 @@ import HomeCategories from "../../Components/HomeCategories/HomeCategories";
 import HomeDeals from "../../Components/HomeDeals/HomeDeals";
 import HomeFeatures from "../../Components/HomeFeatures/HomeFeatures";
 import HomeSlider from "../../Components/HomeSlider/HomeSlider";
-import NewsLetter from "../../Components/newsLetter/newsLetter";
+import NewsLetter from "../../Components/NewsLetter/NewsLetter";
 import PageMetadata from "../../Components/PageMetadata/PageMetadata";
 
 export default function Home() {
