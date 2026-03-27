@@ -4,7 +4,7 @@ import RelatedProduct from "../../Components/RelatedProduct/RelatedProduct";
 import RelatedProductSkeleton from "../../Components/Skeleton/RelatedProductSkeleton";
 import ProductInfoDetailsSkeleton from "../../Components/Skeleton/ProductInfoDetailsSkeleton";
 import PageMetadata from "../../Components/PageMetadata/PageMetadata";
-import useDetailsProduct from "../../../hooks/useDEtailsProduct";
+import useDetailsProduct from "../../../hooks/useDetailsProduct";
 
 export default function DetailsProduct() {
 
