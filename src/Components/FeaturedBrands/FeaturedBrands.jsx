@@ -1,5 +1,5 @@
 import React from "react";
-import useBrands from "../../../hooks/usebrands";
+import useBrands from "../../../hooks/useBrands";
 import Loading from "../Loading/Loading";
 
 export default function FeaturedBrands() {
