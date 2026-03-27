@@ -5,7 +5,7 @@ import PageMetadata from "../../Components/PageMetadata/PageMetadata";
 import CategoryCard from "../../Components/CategoryCard/CategoryCard";
 import useCategories from "../../../hooks/useCategories";
 import { useState } from "react";
-import NewsLetter from "../../Components/newsLetter/newsLetter";
+import NewsLetter from "../../Components/NewsLetter/NewsLetter";
 import CategoriesSkeleton from "../../Components/Skeleton/CategoriesSkeleton";
 
 export default function Categories() {
