@@ -4,7 +4,7 @@ import Subcategories from "../../Components/Subcategories/Subcategories";
 import PageMetadata from "../../Components/PageMetadata/PageMetadata";
 import CategoryCard from "../../Components/CategoryCard/CategoryCard";
 import useCategories from "../../../hooks/useCategories";
-import NewsLetter from "../../Components/newsLetter/newsLetter";
+import NewsLetter from "../../Components/NewsLetter/NewsLetter";
 
 import { useState } from "react";
 
